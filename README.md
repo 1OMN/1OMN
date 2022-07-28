@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1OMN
-- 👀 I’m interested in ... DeepLearning, AI
+- 👀 I’m interested in ... Java, Python, DeepLearning, AI
 - 🌱 I’m currently learning ... Coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... o.mertnemis@gmail.com
