@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Onur Mert Nemiş
 
 🎯 **Data Analyst | Business Intelligence | Predictive Modeling**  
-📍 Hattersheim am Main, Germany | 🌐 [onurmertnemis.com](#) *(optional)*  
+📍 Istanbul | 🌐 [onurmertnemis.com](#) *(optional)*  
 🔗 [LinkedIn](https://linkedin.com/in/onurmertnemis) • [GitHub](https://github.com/1OMN) • 📧 o.mertnemis@gmail.com
 
 ---
